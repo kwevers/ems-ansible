@@ -2,5 +2,5 @@ boxsdk
 gitpython
 jinja2
 pytest
-pyyaml
+pyyaml>=5.3
 requests
