@@ -1,0 +1,6 @@
+boxsdk
+gitpython
+jinja2
+pytest
+pyyaml
+requests
