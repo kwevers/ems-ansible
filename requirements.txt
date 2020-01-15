@@ -1,6 +1,3 @@
 ansible
 ansible-lint
-flake8
-molecule
-testinfra
 yamllint
