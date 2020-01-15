@@ -1,6 +1,6 @@
-boxsdk
-gitpython
-jinja2
-pytest
-pyyaml>=5.3
-requests
+ansible
+ansible-lint
+flake8
+molecule
+testinfra
+yamllint

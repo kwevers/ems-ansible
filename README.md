@@ -1,3 +1,3 @@
-[![Docker Repository on Quay](https://quay.io/repository/kwevers/ems-python36/status "Docker Repository on Quay")](https://quay.io/repository/kwevers/ems-python36)
+[![Docker Repository on Quay](https://quay.io/repository/kwevers/ems-ansible/status "Docker Repository on Quay")](https://quay.io/repository/kwevers/ems-ansible)
 
 Container used in EMS pipelines
